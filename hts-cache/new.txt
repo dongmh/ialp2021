@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+14:48:33	414/414	---MC-	200	added ('OK')	text/html	date:Thu,%2010%20Jun%202021%2006:48:34%20GMT	http://www.ialp2021.org/robots.txt		(from )
+14:48:33	414/414	---MC-	200	added ('OK')	text/html	date:Thu,%2010%20Jun%202021%2006:48:34%20GMT	http://www.ialp2021.org/	C:/My%20Web%20Sites/ialp2021/www.ialp2021.org/index.html	(from )
